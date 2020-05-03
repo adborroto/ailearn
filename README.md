@@ -1,4 +1,4 @@
-# ailearn
+# AILearn :robot:
 
 Machine learning algorithms for learning purpuses.
 
